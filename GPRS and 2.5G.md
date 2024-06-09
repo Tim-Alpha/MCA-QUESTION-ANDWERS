@@ -36,3 +36,6 @@
 ```
 GSM Network -> GPRS Upgrade -> Enhanced Data Services
 ```
+---
+
+[← PREV: (Global System for Mobile Communications)](GSM%20(Global%20System%20for%20Mobile%20Communications).md) | [NEXT: 3G](3G.md)
