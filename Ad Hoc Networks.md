@@ -41,3 +41,7 @@ The network diagram shows direct communication between various types of nodes (s
 ```
 
 This structure illustrates how nodes within an ad hoc network can connect in different configurations to suit specific needs and environments.
+
+---
+
+[← PREV: Data Synchronization Overview](Data%20Synchronization%20Overview.md) | [START: README](Readme.md)
