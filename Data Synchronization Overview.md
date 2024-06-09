@@ -33,4 +33,4 @@ Understanding and implementing effective data synchronization strategies is cruc
 
 ---
 
-[← PREV: CDMA vs GSM](CDMA%20vs%20GSM.md) | [NEXT: Ad Hoc Networks](Ad%20Hoc%20Networks.md)
+[← PREV: Mobile Commerce (M-Commerce)](Mobile%20Commerce%20(M-Commerce).md) | [NEXT: Ad Hoc Networks](Ad%20Hoc%20Networks.md)
