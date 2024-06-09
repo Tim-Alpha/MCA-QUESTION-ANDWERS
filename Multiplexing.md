@@ -44,3 +44,6 @@ FDM: |F1|F2|F3|F4| ---> Different frequency channels
 TDM: |T1|T2|T3|T4| ---> Different time slots
 WDM: |W1|W2|W3|W4| ---> Different wavelengths
 ```
+---
+
+[← PREV: Multiplexing](Multiplexing.md) | [NEXT: Advantage & Disadvantages of Multiplexing](Advantage%20%26%20Disadvantages%20of%20Multiplexing.md)
