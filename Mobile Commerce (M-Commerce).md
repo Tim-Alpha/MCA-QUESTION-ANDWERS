@@ -14,3 +14,7 @@
 
 #### Conclusion
 **Mobile Commerce** is changing the way we buy and sell. It’s handy, flexible, and secure, making it a big part of today’s economy. As technology gets better and people enjoy shopping from their phones more, M-Commerce will only get bigger!
+
+---
+
+[← PREV: CDMA vs GSM](CDMA%20vs%20GSM.md) | [NEXT: Data Synchronization Overview](Data%20Synchronization%20Overview.md)
