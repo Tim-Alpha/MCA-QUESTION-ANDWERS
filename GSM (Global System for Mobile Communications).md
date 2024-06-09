@@ -34,3 +34,6 @@
 [Mobile Phone] ---> [BSS] ---> [NSS] ---> [OSS]
 📱               📡               🔄               🛠
 ```
+---
+
+[← PREV: GSM (Global System for Mobile Communications)](GSM%20(Global%20System%20for%20Mobile%20Communications).md) | [NEXT: GPRS and 2.5G](GPRS%20and%202.5G.md)
