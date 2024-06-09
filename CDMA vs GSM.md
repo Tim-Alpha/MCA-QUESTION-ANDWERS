@@ -44,4 +44,4 @@ GSM:  |--F1--|--F2--|--F3--| (Time slots within each frequency for users)
 ```
 ---
 
-[← PREV: Cellular Network and Frequency Reuse](Cellular%20Network%20and%20Frequency%20Reuse.md) | [NEXT: Data Synchronization Overview](Data%20Synchronization%20Overview.md)
+[← PREV: Cellular Network and Frequency Reuse](Cellular%20Network%20and%20Frequency%20Reuse.md) | [NEXT: Mobile Commerce (M-Commerce)](Mobile%20Commerce%20(M-Commerce).md)
