@@ -24,3 +24,7 @@ Frequency reuse is a strategy that allows the same frequency to be used in non-a
 ## Summary
 
 Cellular networks are designed to provide reliable and efficient communication for mobile users. Through careful planning and frequency management, these networks can support a vast number of users with high quality of service.
+
+---
+
+[← PREV: WiMAX and Cellular Network](WiMAX%20and%20Cellular%20Network.md) | [NEXT: CDMA vs GSM](CDMA%20vs%20GSM.md)
