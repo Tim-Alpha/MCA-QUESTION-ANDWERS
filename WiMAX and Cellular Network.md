@@ -27,3 +27,5 @@
 WiMAX Network: |----- Broad Area Coverage -----|
 Cellular Network: A1 -> A2 -> A3 (Seamless switching)
 ```
+
+[← PREV: LTE](lte.md) | [NEXT: Cellular Network and Frequency Reuse](Cellular%20Network%20and%20Frequency%20Reuse.md)
