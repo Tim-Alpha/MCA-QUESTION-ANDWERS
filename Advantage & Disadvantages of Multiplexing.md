@@ -60,3 +60,6 @@ FDM: |F1|  |F2|  |F3|  |F4| ---> Different frequency bands
 TDM: |T1|T2|T3|T4|T1|T2|T3|T4| ---> Time slots rotating in sequence
 WDM: |λ1|λ2|λ3|λ4| ---> Different wavelengths of light
 ```
+---
+
+[← PREV: Advantage & Disadvantages of Multiplexing](Advantage%20%26%20Disadvantages%20of%20Multiplexing.md) | [NEXT: Time Division Multiplexing](Time%20Division%20Multiplexing.md)
