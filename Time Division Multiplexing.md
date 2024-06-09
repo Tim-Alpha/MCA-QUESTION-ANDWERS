@@ -41,3 +41,6 @@
 Synchronous TDM: |S1|S2|S3|S4|S1|S2|S3|S4| ---> Predetermined fixed slots
 Asynchronous TDM: |A1|  |A3|A1|A2|  |A3|A1| ---> Slots filled based on demand
 ```
+---
+
+[← PREV: Time Division Multiplexing](Time%20Division%20Multiplexing.md) | [NEXT: GSM (Global System for Mobile Communications)](GSM%20(Global%20System%20for%20Mobile%20Communications).md)
