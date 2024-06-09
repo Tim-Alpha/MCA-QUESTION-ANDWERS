@@ -1,4 +1,4 @@
-# Simple Explanation of Long-Term Evolution (LTE) Technology
+# Long-Term Evolution (LTE) Technology
 
 ## Overview
 Long-Term Evolution (LTE) represents a significant advancement in mobile telecommunications, commonly referred to as 4G LTE. It provides substantially faster speeds and improved network efficiency compared to previous generations, facilitating better mobile browsing, faster downloads, and smoother streaming.
