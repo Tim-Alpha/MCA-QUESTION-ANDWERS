@@ -44,4 +44,4 @@ This structure illustrates how nodes within an ad hoc network can connect in dif
 
 ---
 
-[← PREV: Data Synchronization Overview](Data%20Synchronization%20Overview.md) | [START: README](Readme.md)
+[← PREV: Data Synchronization Overview](Data%20Synchronization%20Overview.md) | [START: README](README.md)
